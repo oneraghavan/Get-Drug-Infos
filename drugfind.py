@@ -8,7 +8,7 @@ import json
 import urllib
 
 
-DEVELOPER_KEY = 'AIzaSyCPHiZ56l5VIGzWTRWAszNbJZzDFkRH0wU'
+DEVELOPER_KEY = 'your key here'
 SERVICE_NAME = "youtube"
 API_VERSION = "v3"
 SEARCH_URL = "https://www.googleapis.com/freebase/v1/search?%s&filter=(any type:/medicine/drug)"
